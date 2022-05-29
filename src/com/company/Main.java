@@ -6,6 +6,8 @@ public class Main {
 	System.out.println("Test")
 
         System.out.println("JOro");
-        System.out.println("Ivan");
+
+    int a = 10;
+    int b = 20;
     }
 }
